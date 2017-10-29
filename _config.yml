@@ -13,36 +13,37 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: en-US
-title: Hello
+lang:en-US
+title:Hello
 email:
-description: Welcome
-baseurl: /blog
+description:Welcome
+baseurl:/blog
 # the optional subpath of your site, e.g. "/blog"
-url: https://bethe-light.github.io
+url:https://bethe-light.github.io
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author: bethe-light
-  name: lz
+author:bethe-light
+  name:lz
   twitter:
   picture:
 twitter_username:
 github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
+logo:/assets/images/logo.png 
+# path of site logo, e.g. "/assets/images/logo.png"
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-basically-basic
+markdown:kramdown
+theme:jekyll-theme-basically-basic
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
 feed:
-  path: atom.xml
+  path:atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
-paginate_path: /page:num/
+paginate_path:/page:num/
 
 # Exclude from processing.
 exclude:
