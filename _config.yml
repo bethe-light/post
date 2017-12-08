@@ -1,5 +1,5 @@
-logo: # add logo name
-title: Bef - Enjoy Freedom
+logo: light # add logo name
+title: Be the light ---lz
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,20 +14,20 @@ banner-title: # add banner title
 banner-desc: # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+author-pic: face1.jpg # your photo
+author-name: li zhen # your name
+about-author: one only can write html&css # about author
+email: lzbethelight@gmail.com # your email
+phone: 188******** # your pnone number
+website: https://www.lzlight.xyz # you website
 
 # Social link
-google_url:    # add url link
-twitter_url:   # add url link 
-instagram_url: # add url link
-pinterest_url: # add url link
+google_url:    "https://www.Google.com" # add url link
+twitter_url:   "http://www.twitter.com" # add url link 
+instagram_url: "http://www.instagram.com" # add url link
+github_url:    "https://github.com/bethe-light" # add url link
 dribbble_url:  # add url link
-facebook_url:  # add url link
+facebook_url:  "http://www.twitter.com" # add url link
 
 # Disqus
 discus_identifier: mr-brown # add your discus identifier
