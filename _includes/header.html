@@ -1,8 +1,13 @@
-
-<header class="main_header">
-  <a href="{{site.baseurl}}/" class="logo">{% if site.logo %}{{site.logo}}{% else %}B<span>ef</span>{% endif %}</a>
-  <nav class="main_menu">
-    <a href="{{site.baseurl}}/about/">About</a>
-    <a href="{{site.baseurl}}/contact/">Contact</a>
-  </nav>
-</header> <!-- End Section Header -->
+<header class="g-header">
+    <div class="g-logo">
+      <a href="{{ "/" | relative_url }}"></a>
+    </div>
+    <i id="menu-toggle" class="iconfont icon-menu"></i>
+    <nav class="g-nav">
+        <ul>
+            {% for i in site.nav %}
+            <li><a href="{{ i[1] }}">{{ i[0] }}</a></li>
+            {% endfor %}
+        </ul>
+    </nav>
+</header>
