@@ -6,7 +6,7 @@ url: 'http://bethe-light.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: '/'
-dddd
+
 # Navigation links
 nav:
   home: '/'
