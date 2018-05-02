@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'Be the lighgt'
+title: 'Be the light'
 description: '前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '前端单身狗, javascript, vuejs, nodejs, 设计'
+keyword: '前端单身狗, javascript, vue.js, node.js, 设计，产品'
 url: 'http://bethe-light.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -13,9 +13,9 @@ nav:
   tags: '/tags.html'
 
 # Author 配置博主信息
-author: 'lz'
+author: '李振'
 nickname: 'Be the light'
-bio: '前端开发者，热爱生活，阳光简单乐观'
+bio: '前端攻城狮，热爱生活，阳光乐观，暖男！'
 avatar: '/assets/img/face.jpg'
 
 # Search
@@ -25,7 +25,7 @@ search: true
 nightMode: true
 
 # Comments
-disqus: false
+disqus: tru e
 disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # Share
@@ -33,7 +33,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
+theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
