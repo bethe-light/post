@@ -2,7 +2,7 @@
 layout: post
 title: 'Hello World'
 date: 2017-12-08
-author: lz
+author: 李振
 cover: '../assets/img/face.jpg'
 tags: web
 ---
