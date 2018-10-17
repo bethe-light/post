@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YouDontKnowJS学习小结
+title: 'YouDontKnowJS学习小结'
 date: 2018-01-12
 author: 李振
 cover: '../assets/img/YoudontknowJS.jpg'
@@ -10,7 +10,6 @@ tags: web
 # YouDontKnowJS 学习小结
 
 > **真正的理解闭包的原理与使用 更加透彻this绑定的四种规则机制**  
->
 > 你不知道的JavaScript 人称小黄书，第一次看到这本书名 就想到了一句话 “You konw nothing! Jon snow”(你懂得)， 翻阅后感觉到很惊艳，分析的很透彻，学习起来也很快，Have fun！
 
 ## 块级作用域
