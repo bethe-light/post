@@ -3,7 +3,7 @@ layout: post
 title: 'YouDontKnowJS学习小结'
 date: 2018-01-12
 author: 李振
-cover: '../assets/img/YoudontknowJS.jpg'
+cover: '../assets/img/JS.jpg'
 tags: web
 ---
 
