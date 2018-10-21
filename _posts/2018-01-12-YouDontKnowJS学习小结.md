@@ -220,7 +220,7 @@ foo.call( obj ); //2
 
 **4.new绑定**
 
-> javascript 的 new操作与其他语言的new操作 很大的不同
+> javascript 的 new操作与其 他语言的new操作 很大的不同
 >
 > new 的四个实质过程
 >
@@ -231,8 +231,8 @@ foo.call( obj ); //2
 
 ```javascript
 function foo() {
-    this.a = a;
-}
+    this.a = a;  
+}  
 var bar = new foo(2);
 console.log(bar.a); // 2
 ```
@@ -294,7 +294,7 @@ console.log(bar.a); // 2
 > var obj = {};
 > var bar = foo.bind(obj1);
 > bar(2);
-> console.log(obj1.a); // 2
+> console.log(obj1.a); // 2J
 > 
 > var baz = new bar(3);
 > console.log(obj1.a); // 2
