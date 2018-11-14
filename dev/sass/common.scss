@@ -396,6 +396,7 @@
 .post-header, .markdown-body, .post-wrapper, .author-detail, .social-share-wrapper {
     margin: 0 auto;
 }
+
 .post-wrapper {
     width: $post-content-w;  
 }
@@ -544,7 +545,10 @@
     width: $post-content-w;
     box-sizing: border-box;
     padding: 0 0 32px;
-    
+    .highlight {
+      margin: 0 0 16px;
+      overflow: scroll; }
+    }
     img {
         transition: .3s;
     }
