@@ -65,3 +65,5 @@ RSS: true
 
 # Plugins
 gems: [jekyll-paginate]
+
+theme: jekyll-theme-cayman
